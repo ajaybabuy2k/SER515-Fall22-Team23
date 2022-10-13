@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\rorugan2\Downloads\SllabusGeneratorComposite\Sllabu
+ sGeneratorComposite\Main.java
+
